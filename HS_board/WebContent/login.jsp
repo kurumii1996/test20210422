@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>HSログイン</title>
+<!-- 斉藤修正 -->
 </head>
 <body>
 	 <form method="post" action="Login">
