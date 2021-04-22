@@ -8,6 +8,7 @@
 		<link rel="stylesheet" type="text/css" href="kintai_stylesheet.css">
 	</head>
 	<body>
+	<!-- 清水 -->
 		<h1>勤怠表</h1>
 		<table class="main_table">
 			<tr>
