@@ -1,0 +1,8 @@
+@charset "UTF-8";
+table.main_table {
+	border-collapse: collapse;
+}
+
+table.main_table th, table.main_table td {
+	border: solid 1px black;
+}
